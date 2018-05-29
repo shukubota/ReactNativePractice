@@ -1,4 +1,3 @@
-todolist/index.js
 import React from 'react'
 import { AppRegistry } from 'react-native'
 import { Provider } from 'react-redux'
