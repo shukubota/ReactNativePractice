@@ -1,4 +1,6 @@
 import { AppRegistry } from 'react-native';
-import App from './App';
+
+// MainContainerを利用するため
+import App from './app/containers/Main';
 
 AppRegistry.registerComponent('ReactNativePractice', () => App);
